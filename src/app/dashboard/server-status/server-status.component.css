@@ -11,7 +11,8 @@
 }
 
 .status-online p:first-of-type {
-  color: #6a3cb0;
+  color: green;
+  
 }
 
 .status-offline p:first-of-type {
